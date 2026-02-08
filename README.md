@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Radicación Automatizada - API Laravel
 
 ## 📌 Descripción
@@ -41,3 +42,7 @@ El proyecto sigue una arquitectura basada en:
 
 Clonar repositorio:
 
+=======
+# Deybi_Sebastian_Torres_Silva
+Api de Automatización para la radicación de Documentos.
+>>>>>>> 12d81b2967e8a62e49e03013ded15918bf668db9
